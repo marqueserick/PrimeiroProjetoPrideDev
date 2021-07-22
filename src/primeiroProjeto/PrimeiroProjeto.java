@@ -3,8 +3,7 @@ package primeiroProjeto;
 public class PrimeiroProjeto {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
-	}
+		System.out.println("Vamos começar a programar em Java");
+		}
 
 }
